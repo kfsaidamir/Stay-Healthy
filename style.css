@@ -83,7 +83,7 @@ section {
     gap: 20px;
 }
 
-.box__vector > p {
+.box__vector > button {
     font-size: 15px;
     color: #3043A9;
     font-weight: 400;
